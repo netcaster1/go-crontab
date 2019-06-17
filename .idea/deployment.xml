@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" uploadOnCheckin="09e9a154-1b71-460d-91ec-baa3a4cfb46a">
+    <serverData>
+      <paths name="rasp12">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/opt/golang/work/src/go-crontab" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myUploadOnCheckinName" value="rasp12" />
+  </component>
+</project>
